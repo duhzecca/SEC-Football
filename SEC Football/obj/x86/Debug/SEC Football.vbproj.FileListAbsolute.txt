@@ -1,0 +1,57 @@
+C:\Users\Eduardo Zecca\documents\visual studio 2010\Projects\SEC Football\SEC Football\bin\Debug\SEC Football.exe
+C:\Users\Eduardo Zecca\documents\visual studio 2010\Projects\SEC Football\SEC Football\bin\Debug\SEC Football.pdb
+C:\Users\Eduardo Zecca\documents\visual studio 2010\Projects\SEC Football\SEC Football\bin\Debug\SEC Football.xml
+C:\Users\Eduardo Zecca\documents\visual studio 2010\Projects\SEC Football\SEC Football\obj\x86\Debug\SEC_Football.LoginForm.resources
+C:\Users\Eduardo Zecca\documents\visual studio 2010\Projects\SEC Football\SEC Football\obj\x86\Debug\SEC_Football.Resources.resources
+C:\Users\Eduardo Zecca\documents\visual studio 2010\Projects\SEC Football\SEC Football\obj\x86\Debug\SEC Football.vbproj.GenerateResource.Cache
+C:\Users\Eduardo Zecca\documents\visual studio 2010\Projects\SEC Football\SEC Football\obj\x86\Debug\SEC Football.exe
+C:\Users\Eduardo Zecca\documents\visual studio 2010\Projects\SEC Football\SEC Football\obj\x86\Debug\SEC Football.xml
+C:\Users\Eduardo Zecca\documents\visual studio 2010\Projects\SEC Football\SEC Football\obj\x86\Debug\SEC Football.pdb
+C:\Users\Eduardo Zecca\Documents\Visual Studio 2010\Projects\SEC Football\SEC Football\obj\x86\Debug\SEC_Football.AdminForm.resources
+C:\Users\Eduardo Zecca\Documents\Visual Studio 2010\Projects\SEC Football\SEC Football\obj\x86\Debug\SEC_Football.DeleteForm.resources
+C:\Users\Eduardo Zecca\Documents\Visual Studio 2010\Projects\SEC Football\SEC Football\obj\x86\Debug\SEC_Football.ManageForm.resources
+C:\Users\Eduardo Zecca\Documents\Visual Studio 2010\Projects\SEC Football\SEC Football\obj\x86\Debug\SEC_Football.RegisterForm.resources
+C:\Users\Eduardo Zecca\Documents\Visual Studio 2010\Projects\SEC Football\SEC Football\obj\x86\Debug\SEC_Football.IndexForm.resources
+C:\Users\Eduardo Zecca\Documents\Visual Studio 2010\Projects\SEC Football\SEC Football\bin\Debug\SEC Football.exe.config
+C:\Users\Eduardo Zecca\Documents\Visual Studio 2010\Projects\SEC Football\SEC Football\obj\x86\Debug\SEC_Football.UpdateProfileForm.resources
+C:\Users\Eduardo Zecca\Documents\Visual Studio 2010\Projects\SEC Football\SEC Football\obj\x86\Debug\SEC_Football.AddUpdateStadiumForm.resources
+C:\Users\Eduardo Zecca\Documents\Visual Studio 2010\Projects\SEC Football\SEC Football\obj\x86\Debug\SEC_Football.PlayerForm.resources
+C:\Users\Eduardo Zecca\Documents\Visual Studio 2010\Projects\SEC Football\SEC Football\obj\x86\Debug\SEC_Football.InsertEditTeamForm.resources
+\\mydocs.uark.edu\mydocs\rcnoguei\Documents\Visual Studio 2010\Projects\SEC Football\SEC Football\SEC Football\bin\Debug\SEC Football.exe.config
+\\mydocs.uark.edu\mydocs\rcnoguei\Documents\Visual Studio 2010\Projects\SEC Football\SEC Football\SEC Football\obj\x86\Debug\SEC Football.exe
+\\mydocs.uark.edu\mydocs\rcnoguei\Documents\Visual Studio 2010\Projects\SEC Football\SEC Football\SEC Football\obj\x86\Debug\SEC Football.xml
+\\mydocs.uark.edu\mydocs\rcnoguei\Documents\Visual Studio 2010\Projects\SEC Football\SEC Football\SEC Football\obj\x86\Debug\SEC Football.pdb
+\\mydocs.uark.edu\mydocs\rcnoguei\Documents\Visual Studio 2010\Projects\SEC Football\SEC Football\SEC Football\bin\Debug\SEC Football.exe
+\\mydocs.uark.edu\mydocs\rcnoguei\Documents\Visual Studio 2010\Projects\SEC Football\SEC Football\SEC Football\bin\Debug\SEC Football.pdb
+\\mydocs.uark.edu\mydocs\rcnoguei\Documents\Visual Studio 2010\Projects\SEC Football\SEC Football\SEC Football\bin\Debug\SEC Football.xml
+\\mydocs.uark.edu\mydocs\rcnoguei\Documents\Visual Studio 2010\Projects\SEC Football\SEC Football\SEC Football\obj\x86\Debug\SEC_Football.AddUpdateStadiumForm.resources
+\\mydocs.uark.edu\mydocs\rcnoguei\Documents\Visual Studio 2010\Projects\SEC Football\SEC Football\SEC Football\obj\x86\Debug\SEC_Football.AdminForm.resources
+\\mydocs.uark.edu\mydocs\rcnoguei\Documents\Visual Studio 2010\Projects\SEC Football\SEC Football\SEC Football\obj\x86\Debug\SEC_Football.DeleteForm.resources
+\\mydocs.uark.edu\mydocs\rcnoguei\Documents\Visual Studio 2010\Projects\SEC Football\SEC Football\SEC Football\obj\x86\Debug\SEC_Football.InsertEditTeamForm.resources
+\\mydocs.uark.edu\mydocs\rcnoguei\Documents\Visual Studio 2010\Projects\SEC Football\SEC Football\SEC Football\obj\x86\Debug\SEC_Football.PlayerForm.resources
+\\mydocs.uark.edu\mydocs\rcnoguei\Documents\Visual Studio 2010\Projects\SEC Football\SEC Football\SEC Football\obj\x86\Debug\SEC_Football.IndexForm.resources
+\\mydocs.uark.edu\mydocs\rcnoguei\Documents\Visual Studio 2010\Projects\SEC Football\SEC Football\SEC Football\obj\x86\Debug\SEC_Football.LoginForm.resources
+\\mydocs.uark.edu\mydocs\rcnoguei\Documents\Visual Studio 2010\Projects\SEC Football\SEC Football\SEC Football\obj\x86\Debug\SEC_Football.ManageForm.resources
+\\mydocs.uark.edu\mydocs\rcnoguei\Documents\Visual Studio 2010\Projects\SEC Football\SEC Football\SEC Football\obj\x86\Debug\SEC_Football.Resources.resources
+\\mydocs.uark.edu\mydocs\rcnoguei\Documents\Visual Studio 2010\Projects\SEC Football\SEC Football\SEC Football\obj\x86\Debug\SEC_Football.RegisterForm.resources
+\\mydocs.uark.edu\mydocs\rcnoguei\Documents\Visual Studio 2010\Projects\SEC Football\SEC Football\SEC Football\obj\x86\Debug\SEC_Football.UpdateProfileForm.resources
+\\mydocs.uark.edu\mydocs\rcnoguei\Documents\Visual Studio 2010\Projects\SEC Football\SEC Football\SEC Football\obj\x86\Debug\SEC Football.vbproj.GenerateResource.Cache
+C:\Users\Eduardo Zecca\Documents\Visual Studio 2010\Projects\SEC Football 1\SEC Football\bin\Debug\SEC Football.exe.config
+C:\Users\Eduardo Zecca\Documents\Visual Studio 2010\Projects\SEC Football 1\SEC Football\obj\x86\Debug\SEC Football.exe
+C:\Users\Eduardo Zecca\Documents\Visual Studio 2010\Projects\SEC Football 1\SEC Football\obj\x86\Debug\SEC Football.xml
+C:\Users\Eduardo Zecca\Documents\Visual Studio 2010\Projects\SEC Football 1\SEC Football\obj\x86\Debug\SEC Football.pdb
+C:\Users\Eduardo Zecca\Documents\Visual Studio 2010\Projects\SEC Football 1\SEC Football\bin\Debug\SEC Football.exe
+C:\Users\Eduardo Zecca\Documents\Visual Studio 2010\Projects\SEC Football 1\SEC Football\bin\Debug\SEC Football.pdb
+C:\Users\Eduardo Zecca\Documents\Visual Studio 2010\Projects\SEC Football 1\SEC Football\bin\Debug\SEC Football.xml
+C:\Users\Eduardo Zecca\Documents\Visual Studio 2010\Projects\SEC Football 1\SEC Football\obj\x86\Debug\SEC_Football.AddUpdateStadiumForm.resources
+C:\Users\Eduardo Zecca\Documents\Visual Studio 2010\Projects\SEC Football 1\SEC Football\obj\x86\Debug\SEC_Football.AdminForm.resources
+C:\Users\Eduardo Zecca\Documents\Visual Studio 2010\Projects\SEC Football 1\SEC Football\obj\x86\Debug\SEC_Football.DeleteForm.resources
+C:\Users\Eduardo Zecca\Documents\Visual Studio 2010\Projects\SEC Football 1\SEC Football\obj\x86\Debug\SEC_Football.InsertEditTeamForm.resources
+C:\Users\Eduardo Zecca\Documents\Visual Studio 2010\Projects\SEC Football 1\SEC Football\obj\x86\Debug\SEC_Football.PlayerForm.resources
+C:\Users\Eduardo Zecca\Documents\Visual Studio 2010\Projects\SEC Football 1\SEC Football\obj\x86\Debug\SEC_Football.IndexForm.resources
+C:\Users\Eduardo Zecca\Documents\Visual Studio 2010\Projects\SEC Football 1\SEC Football\obj\x86\Debug\SEC_Football.LoginForm.resources
+C:\Users\Eduardo Zecca\Documents\Visual Studio 2010\Projects\SEC Football 1\SEC Football\obj\x86\Debug\SEC_Football.ManageForm.resources
+C:\Users\Eduardo Zecca\Documents\Visual Studio 2010\Projects\SEC Football 1\SEC Football\obj\x86\Debug\SEC_Football.Resources.resources
+C:\Users\Eduardo Zecca\Documents\Visual Studio 2010\Projects\SEC Football 1\SEC Football\obj\x86\Debug\SEC_Football.RegisterForm.resources
+C:\Users\Eduardo Zecca\Documents\Visual Studio 2010\Projects\SEC Football 1\SEC Football\obj\x86\Debug\SEC_Football.UpdateProfileForm.resources
+C:\Users\Eduardo Zecca\Documents\Visual Studio 2010\Projects\SEC Football 1\SEC Football\obj\x86\Debug\SEC Football.vbproj.GenerateResource.Cache
